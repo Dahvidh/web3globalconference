@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title img src="Web 3 Global Conference Logo Transparent1.png" >W3GC | Payments and Subscription</title>
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="karls-superb-site-b5d298-49ec6745d5a9d9.webflow.f06a384f4.css">
+  <link data-default-icon="Web 3 Global Conference Logo Transparent1.png" rel="icon" sizes="192x192" href="Web 3 Global Conference Logo Transparent1.png">
+</head>
+<body>
+ 
+ 
+  <div class="navigation_component">
+    <a href="#" aria-current="page" class="navbar_logo-linkblock w-nav-brand w--current" aria-label="home">
+      <img src="Web 3 Global Conference Logo Transparent 2.svg" loading="lazy" alt="" class="logo_navbar">
+    </a>
+    
+    <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    
+    .container {
+      margin-top: 50px;
+    }
+    
+    h1 {
+      color: #333;
+    }
+    
+    #wallet-address {
+      margin-top: 20px;
+      font-size: 20px;
+      color: #ffff;
+    }
+    
+    #qr-code {
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Make Your Payment</h1>
+
+    <div id="wallet-address">USDT (TRC20) <span id="address">[Wallet address]</span>
+    </div>
+
+    <div id="qr-code" ></div>
+  </div>
+<br>
+<br>
+<br>
+<br>
+
+ <p>ENSURE TO SEND PROOF OF PAYMENT TO: <a href="mailto:info.web3globalconference@gmail.com" class="footer-link">info.web3globalconference@gmail.com</a></p> 
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.qrcode/1.0/jquery.qrcode.min.js"></script>
+  <script>
+    const walletAddress = "TYfTWBVgg4QsZxPSW2oKzKqs4UkYX1WF4i";
+    
+    document.getElementById("address").textContent = walletAddress;
+
+    // Generate QR code using the wallet address
+    const qrCodeElement = document.getElementById("qr-code");
+    $(qrCodeElement).qrcode({
+      text: walletAddress,
+      width: 200,
+      height: 200
+    });
+  </script>
+</body>
+</html>
+
+  <script  src="./script.js"></script>
+
+</body>
+</html>
