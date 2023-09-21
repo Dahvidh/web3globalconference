@@ -10,37 +10,14 @@ function Footer() {
               <h1 className="heading-l white">W3GC NEWSLETTER</h1>
             </div>
             <div className="line-2">
-              <p className="heading-l orange">Sign up for the latest updates</p>
+              <a
+              href="https://www.linkedin.com/company/web3-global-conference/"
+              target="_blank"
+              className="heading-l orange"
+            >Sign up for the latest updates</a>
+              <p className="heading-l orange"></p>
             </div>
           </div>
-          <div className="subscribe-right">
-            <div className="form-block w-form">
-              <form
-                id="wf-form-POT-Email-Subscription"
-                name="wf-form-POT-Email-Subscription"
-                data-name="POT Email Subscription"
-                method="get"
-                className="form-3 email-subscribe-form"
-                aria-label="W3gc Email Subscription"
-              >
-                <input
-                  type="email"
-                  className="footer-input-fields w-node-_1717abd6-fc79-1229-5f74-8c4391398b6c-82ac0efe w-input"
-                  maxLength={256}
-                  name="EMAIL"
-                  data-name="EMAIL"
-                  placeholder="Your email address"
-                  id="EMAIL-3"
-                  required=""
-                />
-                <input
-                  type="submit"
-                  value=""
-                  data-wait="Please wait..."
-                  id="w-node-_1717abd6-fc79-1229-5f74-8c4391398b67-82ac0efe"
-                  className="submit-button-footer w-button"
-                />
-              </form>
               <div className="w-embed">
                 <div hidden="true">
                   <input
