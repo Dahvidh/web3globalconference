@@ -11,7 +11,7 @@ function Footer() {
             </div>
             <div className="line-2">
             <a
-              href="#"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdNdyoQ30bPmG3yI8y9Ipk2kkgDrtZyDDqUVNqs3bcYb8iWeA/viewform"
               target="_blank"
               className="heading-l orange"
             >Sign up for the latest updates</a>
