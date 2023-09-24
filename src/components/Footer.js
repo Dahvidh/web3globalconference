@@ -14,7 +14,7 @@ function Footer() {
               href="https://docs.google.com/forms/d/e/1FAIpQLSdNdyoQ30bPmG3yI8y9Ipk2kkgDrtZyDDqUVNqs3bcYb8iWeA/viewform"
               target="_blank"
               className="heading-l orange"
-            >Sign up for the latest updates</a>
+            >Click here to Sign up for the latest updates</a>
             </div>
           </div>
         </div>
