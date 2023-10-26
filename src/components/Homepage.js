@@ -81,7 +81,7 @@ function Homepage() {
   <div className="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-1" />
 </div>
 <div className="main-wrapper">
-                  <div
+   <div
     id="W3GC"
     className="section_hero home wf-section animate__animated animate__fadeInLeft animate__delay-2s"
   >
