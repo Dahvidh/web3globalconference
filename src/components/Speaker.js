@@ -152,7 +152,7 @@ function Speaker() {
                       className="team-member-image"
                     />
                   </div>
-                  <div className="team-member-name">Moran Weiss</div>
+                  <div className="team-member-name">Moran Hertzanu Weiss</div>
                   <div className="team-member-position">Real Estate Tokenization Expert</div>
                 </div>
               </div>
