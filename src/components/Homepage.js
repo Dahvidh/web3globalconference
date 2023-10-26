@@ -139,10 +139,7 @@ function Homepage() {
     </div>
   </div>
   <div id="About" className="section_what-is-pot wf-section">
-                    <div
-    id="W3GC"
-    className="section_hero home wf-section animate__animated animate__fadeInLeft animate__delay-2s"
-  >
+    
     <div className="padding-global">
       <div className="padding-section-large">
         <div className="container-large">
