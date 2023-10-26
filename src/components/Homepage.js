@@ -81,9 +81,9 @@ function Homepage() {
   <div className="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-1" />
 </div>
 <div className="main-wrapper">
-  <div
+                  <div
     id="W3GC"
-    className="section_hero home wf-section animate__animated animate__bounce animate__delay-2s"
+    className="section_hero home wf-section animate__animated animate__fadeInLeft animate__delay-2s"
   >
     <div className="padding-global">
       <div className="padding-section-large hero-home">
