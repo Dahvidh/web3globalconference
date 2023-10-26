@@ -51,7 +51,7 @@ function Homepage() {
           </a>
         </div>
         <div className="menu">
-          <a href="Speakers.html" className="nav-link w-nav-link" ></a> 
+          <a href="Speakers.html" className="nav-link w-nav-link" >Join the 2024 waitlist</a> 
           <a href="#" className="nav-link w-nav-link" ></a> 
           <a href="#" className="nav-link w-nav-link" ></a> 
           <a href="#" className="nav-link w-nav-link" />
