@@ -153,7 +153,7 @@ function Speaker() {
                     />
                   </div>
                   <div className="team-member-name">Moran Weiss</div>
-                  <div className="team-member-position">Hedera, Founder</div>
+                  <div className="team-member-position">Real Estate Tokenization Expert</div>
                 </div>
               </div>
               <div role="listitem" className="speaker_item w-dyn-item">
