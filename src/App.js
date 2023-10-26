@@ -19,6 +19,7 @@ function App() {
       <Header/>
       <Homepage/>
       <About/>
+      <Speaker/>
       <Sponsor/>
       <Footer/>
     </div>
