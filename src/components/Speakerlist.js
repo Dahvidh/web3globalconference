@@ -173,7 +173,7 @@ function Speakerlist() {
        
          <div className="text-align-center">
           <div className="heading-m">
-            <span className="text-span-2">+</span> many more, tba soon
+                {/*<span className="text-span-2">+</span> many more, tba soon*/}
           </div>
         </div>
         <div className="button-group is-center">
