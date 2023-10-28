@@ -118,7 +118,7 @@ function Homepage() {
                     </div>
                   </div>
                 </div>
-                <a
+{/* <a
                   href="https://docs.google.com/forms/d/e/1FAIpQLSdL5-BEA9rSvvTyv-h6usBwpCXj1D3S95YjL4L_Vyhf0bDrcg/viewform"
                   className="secondary-button w-button"
                 >
@@ -129,7 +129,7 @@ function Homepage() {
                   className="secondary-button outline w-button"
                 >
                   BE A SPEAKER
-                </a>
+                </a>*/}
               </div>
             </div>
           </div>
