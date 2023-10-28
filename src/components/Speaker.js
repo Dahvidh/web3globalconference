@@ -152,8 +152,8 @@ function Speaker() {
                       className="team-member-image"
                     />
                   </div>
-                  <div className="team-member-name">Moran Hertzanu Weiss</div>
-                  <div className="team-member-position">Real Estate Tokenization Expert</div>
+                  <div className="team-member-name">Moran Weiss</div>
+                  <div className="team-member-position">Hedera, Founder</div>
                 </div>
               </div>
               <div role="listitem" className="speaker_item w-dyn-item">
@@ -310,9 +310,8 @@ function Speaker() {
                   </div>
                 </div>
               </div>
-
-
-                 <div role="listitem" className="speaker_item w-dyn-item">
+              
+              <div role="listitem" className="speaker_item w-dyn-item">
                 <div className="team-card">
                   <div className="team-member_image-wrapper">
                     <img
