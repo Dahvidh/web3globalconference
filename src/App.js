@@ -21,7 +21,7 @@ function App() {
       <About/>
       <Speaker/>
       <Speakerlist/>
-      <Sponsor/>
+      
       <Footer/>
     </div>
   );
