@@ -171,7 +171,7 @@ function Speakerlist() {
           
         </div>
        
-         {/*<div className="text-align-center">
+         <div className="text-align-center">
           <div className="heading-m">
             <span className="text-span-2">+</span> many more, tba soon
           </div>
@@ -186,11 +186,11 @@ function Speakerlist() {
             id="w-node-e6716282-0155-f796-c274-93233fe90899-3c6bddfa"
             className="sponsor-modal_btn"
           >
-            <a href="#" className="button is-secondary is-alternate w-button">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-ieND9GPFt1SHou0vVDRGy1Kh6YTPoM3SJvO0QIUFx_Qoww/viewform" className="button is-secondary is-alternate w-button">
               BECOME&nbsp;A SPONSOR
             </a>
           </div>
-        </div>*/}
+        </div>
       </div>
     </div>
   </div>
