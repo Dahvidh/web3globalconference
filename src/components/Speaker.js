@@ -310,7 +310,24 @@ function Speaker() {
                   </div>
                 </div>
               </div>
-              
+
+
+                 <div role="listitem" className="speaker_item w-dyn-item">
+                <div className="team-card">
+                  <div className="team-member_image-wrapper">
+                    <img
+                      loading="lazy"
+                      src="/imgg/Nicholas Weber.jpg"
+                      alt="Nicholas Weber"
+                      className="team-member-image"
+                    />
+                  </div>
+                  <div className="team-member-name">Nicholas Weber</div>
+                  <div className="team-member-position">
+                   THE HUB, Founder
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
          
