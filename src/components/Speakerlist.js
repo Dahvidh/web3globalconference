@@ -181,7 +181,7 @@ function Speakerlist() {
             <a href="#" className="button is-alternate w-button">
              Join the 2024 Waitlist
             </a>
-    </div>*
+    </div>
           <div
             id="w-node-e6716282-0155-f796-c274-93233fe90899-3c6bddfa"
             className="sponsor-modal_btn"
