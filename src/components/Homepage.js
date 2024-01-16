@@ -51,10 +51,10 @@ function Homepage() {
           </a>
         </div>
         <div className="menu">
-          <a href="Speakers.html" className="nav-link w-nav-link" >Insights</a> 
+          <a href="Speakers.html" className="nav-link w-nav-link" ></a> 
           <a href="#" className="nav-link w-nav-link" ></a> 
           <a href="#" className="nav-link w-nav-link" ></a> 
-          <a href="#" className="nav-link w-nav-link" />
+          <a href="#" className="nav-link w-nav-link" >Insights</a>
         </div>
       </nav>
     </div>
