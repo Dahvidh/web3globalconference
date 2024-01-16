@@ -111,11 +111,6 @@ function Homepage() {
                     className="calendar-icon landing-page"
                   />
                   //<div className="conference-dates">
-                    //<div className="text-weight-bold">
-                      //9am, WAT.
-                      //<br />
-                      //October, Saturday 28th, 2023.
-                    //</div>
                   //</div>
                 </div>
 {/* <a
