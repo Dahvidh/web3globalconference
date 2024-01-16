@@ -111,6 +111,11 @@ function Homepage() {
                     className="calendar-icon landing-page"
                   />
                   <div className="conference-dates">
+                       <div className="text-weight-bold">
+                     Date and time
+                      <br />
+                      to be announced.
+                    </div>
                   </div>
                 </div>
 {/* <a
