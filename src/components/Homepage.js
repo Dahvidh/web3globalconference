@@ -53,12 +53,6 @@ function Homepage() {
         <div className="menu">
           <a href="Speakers.html" className="nav-link w-nav-link" ></a> 
           <a href="#" className="nav-link w-nav-link" ></a> 
-          <a href="#" className="nav-link w-nav-link" ></a> 
-          <a href="#" className="nav-link w-nav-link" ></a>
-          <a href="#" className="nav-link w-nav-link" ></a>
-          <a href="#" className="nav-link w-nav-link" ></a>
-          <a href="#" className="nav-link w-nav-link" ></a>
-          <a href="#" className="nav-link w-nav-link" >Insights</a>
                 <a href="#" class="button is-secondary w-button">Become a Sponsor</a>
                 <a href="#" class="button w-button">Join 2024 Waitlist</a>
                 </div>
