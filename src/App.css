@@ -3726,7 +3726,7 @@ blockquote {
 
 .links-container {
   width: 100%;
-  justify-content: center;
+  justify-content: flex-end;
   align-self: auto;
   align-items: center;
   margin-left: auto;
