@@ -55,14 +55,8 @@ function Homepage() {
           <a href="#" className="nav-link w-nav-link" ></a> 
           <a href="#" className="nav-link w-nav-link" ></a> 
           <a href="#" className="nav-link w-nav-link" >Insights</a>
-
-                    <div class="button-group is-nav">
-                <div id="w-node-_10729cb2-cdf2-8ede-f47e-48cdd2472d62-d2472d4d" class="sponsor-modal_btn">
-                <a href="#" class="button is-secondary w-button">Become a Sponsor</a>
-                </div>
-                <div id="w-node-_10729cb2-cdf2-8ede-f47e-48cdd2472d64-d2472d4d" class="waitlist-modal_btn">
-                <a href="#" class="button w-button">Join 2024 Waitlist</a>
-                </div>
+          <a href="#" class="button is-secondary w-button">Become a Sponsor</a>
+          <a href="#" class="button w-button">Join 2024 Waitlist</a>
                 </div>
         </div>
       </nav>
