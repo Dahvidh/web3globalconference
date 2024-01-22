@@ -129,7 +129,7 @@ function Homepage() {
                   className="secondary-button outline w-button"
                 >
                   BE A SPEAKER
-                </a>*/}
+                </a>
               </div>
             </div>
           </div>
