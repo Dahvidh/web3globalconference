@@ -52,7 +52,7 @@ function Homepage() {
         </div>
         <div className="menu">
           <a href="Speakers.html" className="nav-link w-nav-link" ></a> 
-          <a href="#" className="nav-link w-nav-link" >About us</a>
+          <a href="#" className="nav-link w-nav-link" ></a>
           <a href="#" className="nav-link w-nav-link" ></a> 
           <a href="#" className="nav-link w-nav-link" ></a> 
         </div>
