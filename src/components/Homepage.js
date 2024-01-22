@@ -52,9 +52,11 @@ function Homepage() {
         </div>
         <div className="menu">
           <a href="Speakers.html" className="nav-link w-nav-link" ></a> 
+          <a href="#" className="nav-link w-nav-link" >About us</a>
           <a href="#" className="nav-link w-nav-link" ></a> 
-                <a href="#" class="button is-secondary w-button">Become a Sponsor</a>
-                <a href="#" class="button w-button">Join 2024 Waitlist</a>
+          <a href="#" className="nav-link w-nav-link" ></a> 
+                <a href="#" className="nav-link w-nav-link">Become a Sponsor</a>
+                <a href="#" className="nav-link w-nav-link">Join 2024 Waitlist</a>
                 </div>
         </div>
       </nav>
