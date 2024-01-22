@@ -179,7 +179,7 @@ function Speakerlist() {
         <div className="button-group is-center">
         <div className="waitlist-modal_btn">
             <a href="#" className="button is-alternate w-button">
-             Join the 2024 Waitlist
+             Get insights on the previous event
             </a>
     </div>
           <div
