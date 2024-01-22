@@ -89,13 +89,8 @@ function Footer() {
         </div>
       </div>
     </div>
-    <div className="container-10" />
-    <div className="container-11">
-      <div className="footer-bottom-2">
-        <div className="footer-copyright-2">
-          © 2024 W3GC by Bathpage Consulting All rights reserved.
-        </div>
-        <div className="footer-legal-block-2">
+
+                    <div className="footer-legal-block-2">
           <a
             href="Terms & Conditions.html"
             className="footer-legal-link-2"
@@ -109,6 +104,14 @@ function Footer() {
             Privacy Policy
           </a>
         </div>
+              
+    <div className="container-10" />
+    <div className="container-11">
+      <div className="footer-bottom-2">
+        <div className="footer-copyright-2">
+          © 2024 W3GC by Bathpage Consulting All rights reserved.
+        </div>
+      
       </div>
     </div>
   </section>
