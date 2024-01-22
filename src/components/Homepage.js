@@ -99,7 +99,7 @@ function Homepage() {
                 </div>
                 <div className="hero-subtext">
                   <p className="text-size-xlarge">
-                    Envisioning the Future of Web3.
+                  the Future of Web3.
                   </p>
                 </div>
                 <div className="conference-details align-left">
@@ -118,7 +118,7 @@ function Homepage() {
                     </div>
                   </div>
                 </div>
-{/* <a
+<a
                   href="https://docs.google.com/forms/d/e/1FAIpQLSdL5-BEA9rSvvTyv-h6usBwpCXj1D3S95YjL4L_Vyhf0bDrcg/viewform"
                   className="secondary-button w-button"
                 >
