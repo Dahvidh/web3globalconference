@@ -20,7 +20,7 @@ function Footer() {
         </div>
       
     </div>
-    <div className="footer-divider footer-1" />
+  {/*<div className="footer-divider footer-1" />*/}
     <div className="padding-global">
       <div className="container-5">
         <div className="footer-wrapper">
