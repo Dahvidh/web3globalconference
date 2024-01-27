@@ -9,10 +9,10 @@ function Speaker() {
         <div className="speaker_wrapper">
           <div className="headline-wrapper-4rem">
             <div className="margin-bottom margin-medium">
-              <h2>Keynote Speakers</h2>
+              <h2>Former Keynote Speakers</h2>
             </div>
             <p className="text-size-large">
-              Exclusive mix of Speakers &amp; Panelists: bringing together top
+              Exclusive mix of 2023's  Speakers &amp; Panelists: bringing together top
               industry leaders
             </p>
           </div>
