@@ -99,7 +99,7 @@ function Homepage() {
                 </div>
                 <div className="hero-subtext">
                   <p className="text-size-xlarge">
-                 Envisioning the future of Web3
+                 The future is Web3
                   </p>
                 </div>
                 <div className="conference-details align-left">
