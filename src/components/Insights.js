@@ -5,14 +5,13 @@ function Insights() {
     <>
     <section class="container mx-auto" style={{"display":"flex","justifyContent":"center","alignItems":"center"}}>
     <div class="p-8 md:grid md:grid-cols-2 lg:grid lg:grid-cols-2 gap-x-24 items-baseline" style={{"display":"flex","justifyContent":"center","alignItems":"center"}}>
-      <div>
-        <div class="bg-[#F8B135] p-6 rounded-lg" style={{"padding":"1.5rem","borderRadius":"0.5rem","background":"#F8B135"}}>
+    <div>
           <div class="flex items-center space-x-12" style={{"display":"flex","marginLeft":"3rem","alignItems":"center"}}>
             <div>
             </div>
 
           </div>
-        </div>
+       
         <div class="mt-6" style={{"marginTop":"1.5rem"}}>
           <h2 class="text-[#23242A] text-[36px] leading-[39px] font-[700]" style={{"color":["#23242A","36px"]}}>
             Registration Breakdown -{/* */} {/* */}
@@ -27,20 +26,33 @@ function Insights() {
         </div>
       </div>
      
+      <div class="mt-6" style={{"marginTop":"1.5rem"}}>
+          <h2 class="text-[#23242A] text-[36px] leading-[39px] font-[700]" style={{"color":["#23242A","36px"]}}>
+          Attendance Breakdown -{/* */} {/* */}
+          </h2>
+          <ul class="text-[#23242A] text-[32px] leading-[35px]" style={{"color":["#23242A","32px"]}}>
+          <li>Total Attendance: 100+</li>
+            <li>10+ Countries Globally </li>
+            <li>Over 4 Continents</li>
+            <li>20+ Speakers</li>
+            <li>23+ Partners</li>
+          </ul>
+        </div>
+      </div>
      
-    <div class="mt-6"  style={{"marginTop":"1.5rem"}}>
-          <h3 class="text-[#23242A] text-[36px] leading-[39px] font-[700]" style={{"color":["#23242A","36px"]}}>
+    <div class="mt-6" >
+          <h3 class="text-[#23242A] text-[36px] leading-[39px] font-[700]">
           Speakers: 20+{/* */} {/* */}
           </h3>
         </div>
 
 
-        <div class="mt-6"  style={{"marginTop":"1.5rem"}}>
-          <h3 class="text-[#23242A] text-[36px] leading-[39px] font-[700]" style={{"color":["#23242A","36px"]}}>
+        <div class="mt-6">
+          <h3 class="text-[#23242A] text-[36px] leading-[39px] font-[700]">
           Total Streams:67{/* */} {/* */}
           </h3>
         </div>
-</div>
+
   </section>
 
   <section class="bg-hero mt-28 h-[650px] flex items-center justify-center" style={{"display":"flex","marginTop":"7rem","justifyContent":"center","alignItems":"center","height":"650px"}}>
@@ -52,11 +64,11 @@ function Insights() {
       <div class="aspect-ratio-16-9">
         <div class="flex items-center justify-center" style={{"display":"flex","justifyContent":"center","alignItems":"center"}}>
           <iframe
-            allowFullScreen
+            allowFullScreen=""
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             title="Envisioning the future of web3 - Web3 Global Conference 2023"
-            width="500%"
-            height="350$"
+            width="100%"
+            height="350"
             src="https://www.youtube.com/embed/iH9iY3_BBA4"
             id="widget2"
           ></iframe>
