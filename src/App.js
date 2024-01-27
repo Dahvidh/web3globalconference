@@ -10,6 +10,7 @@ import Speaker from './components/Speaker';
 import Header from './components/Header';
 import Speakerlist from './components/Speakerlist';
 import About from './components/About';
+import Insights from './components/Insights';
 import { BrowserRouter,Routes, Route } from 'react-router-dom';
 import { useEffect } from 'react';
 
@@ -20,8 +21,8 @@ function App() {
       <Homepage/>
       <About/>
       <Speaker/>
+      <Insights/>
       <Speakerlist/>
-      
       <Footer/>
     </div>
   );
