@@ -178,9 +178,9 @@ function Speakerlist() {
         </div>
         <div className="button-group is-center">
         <div className="waitlist-modal_btn">
-            <a href="#" className="button is-alternate w-button">
+           {/*  <a href="#" className="button is-alternate w-button">
              Get insights on the previous event
-            </a>
+            </a>*/}
     </div>
           <div
             id="w-node-e6716282-0155-f796-c274-93233fe90899-3c6bddfa"
