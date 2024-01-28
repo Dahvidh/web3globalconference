@@ -5,40 +5,39 @@ function Insights() {
     <>
     <section class="container mx-auto" style={{"display":"flex","justifyContent":"center","alignItems":"center"}}>
     <div class="p-8 md:grid md:grid-cols-2 lg:grid lg:grid-cols-2 gap-x-24 items-baseline" style={{"display":"flex","justifyContent":"center","alignItems":"center"}}>
-    <div>
           <div class="flex items-center space-x-12" style={{"display":"flex","marginLeft":"3rem","alignItems":"center"}}>
             <div>
             </div>
 
           </div>
        
-        <div class="mt-6" style={{"marginTop":"1.5rem"}}>
-          <h2 class="text-[#23242A] text-[36px] leading-[39px] font-[700]" style={{"color":["#23242A","36px"]}}>
-            Registration Breakdown -{/* */} {/* */}
-          </h2>
-          <ul class="text-[#23242A] text-[32px] leading-[35px]" style={{"color":["#23242A","32px"]}}>
-          <li> Total Registration: 300+</li>
+
+          <div class="mt-6" style={{"marginTop":"1.5rem"}}>
+          <h2 className="heading-l">Registration Breakdown</h2>
+              <div className="content">
+              <li> Total Registration: 300+</li>
             <li>10+ Countries Globally </li>
             <li>Over 4 Continents</li>
             <li>20+ Speakers</li>
             <li>23+ Partners</li>
-          </ul>
-        </div>
-      </div>
+              </div>
+              </div>
+              </div>
+
      
-      <div class="mt-6" style={{"marginTop":"1.5rem"}}>
-          <h2 class="text-[#23242A] text-[36px] leading-[39px] font-[700]" style={{"color":["#23242A","36px"]}}>
-          Attendance Breakdown -{/* */} {/* */}
-          </h2>
-          <ul class="text-[#23242A] text-[32px] leading-[35px]" style={{"color":["#23242A","32px"]}}>
-          <li>Total Attendance: 100+</li>
+
+              <div class="mt-6" style={{"marginTop":"1.5rem"}}>
+          <h2 className="heading-l">Attendance Breakdown</h2>
+              <div className="content">
+              <li>Total Attendance: 100+</li>
             <li>10+ Countries Globally </li>
             <li>Over 4 Continents</li>
             <li>20+ Speakers</li>
             <li>23+ Partners</li>
-          </ul>
-        </div>
-      </div>
+              </div>
+              </div>
+
+
      
     <div class="mt-6" >
           <h3 class="text-[#23242A] text-[36px] leading-[39px] font-[700]">
