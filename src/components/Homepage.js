@@ -112,14 +112,14 @@ function Homepage() {
                   />
                   <div className="conference-dates">
                        <div className="text-weight-bold">
-                     Date and time
+                     Saturday, October 26
                       <br />
-                      to be announced.
+                      9:00 - 16:00 WAT
                     </div>
                   </div>
                 </div>
 <a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSdL5-BEA9rSvvTyv-h6usBwpCXj1D3S95YjL4L_Vyhf0bDrcg/viewform"
+                  href="https://lu.ma/1ulna1fy"
                   className="secondary-button w-button"
                 >
                   BOOK A TICKET
