@@ -16,19 +16,6 @@ function Insights() {
           <h2 className="heading-l">Registration Breakdown</h2>
               <div className="content">
               <li> Total Registration: 300+</li>
-            <li>10+ Countries Globally </li>
-            <li>Over 4 Continents</li>
-            <li>20+ Speakers</li>
-            <li>23+ Partners</li>
-              </div>
-              </div>
-              </div>
-
-     
-
-              <div class="mt-6" style={{"marginTop":"1.5rem"}}>
-          <h2 className="heading-l">Attendance Breakdown</h2>
-              <div className="content">
               <li>Total Attendance: 100+</li>
             <li>10+ Countries Globally </li>
             <li>Over 4 Continents</li>
@@ -36,22 +23,7 @@ function Insights() {
             <li>23+ Partners</li>
               </div>
               </div>
-
-
-     
-    <div class="mt-6" >
-          <h3 class="text-[#23242A] text-[36px] leading-[39px] font-[700]">
-          Speakers: 20+{/* */} {/* */}
-          </h3>
-        </div>
-
-
-        <div class="mt-6">
-          <h3 class="text-[#23242A] text-[36px] leading-[39px] font-[700]">
-          Total Streams:67{/* */} {/* */}
-          </h3>
-        </div>
-
+              </div>
   </section>
 
   <section class="bg-hero mt-28 h-[650px] flex items-center justify-center" style={{"display":"flex","marginTop":"7rem","justifyContent":"center","alignItems":"center","height":"650px"}}>
