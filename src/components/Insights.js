@@ -13,7 +13,7 @@ function Insights() {
        
 
           <div class="mt-6" style={{"marginTop":"1.5rem"}}>
-          <h3 className="heading-l">Registration Breakdown</h3>
+          <h6 className="heading-l">Registration Breakdown</h6>
               <div className="content">
               <li> Total Registration: 300+</li>
               <li>Total Attendance: 100+</li>
