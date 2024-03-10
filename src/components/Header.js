@@ -8,7 +8,7 @@ function Header() {
     <meta content="Web3 Global Conference" property="og:title" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta property="og:image" content="Web 3 Global Conference Logo Transparent1.png">
-     <meta property="og:description" content= "The Web3 Global Conference is an unparalleled event that unites leading experts from diverse industries on a global scale with core emphasis everything web3.">
+     <meta property="og:description" content= "The Web3 Global Conference is an unparalleled event that unites leading experts from diverse industries on a global scale with core emphasis everything web3."/>
     <link
       href="karls-superb-site-b5d298-49ec6745d5a9d9.webflow.f06a384f4.css"
       rel="stylesheet"
@@ -107,7 +107,7 @@ function Header() {
     </div>
     <div className="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-1" />
   </div>
-  
+   </>
   )
 }
 
