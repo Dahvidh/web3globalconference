@@ -7,7 +7,7 @@ function Header() {
     <meta content="The Web3 Global Conference is an unparalleled event that unites leading experts from diverse industries on a global scale with core emphasis everything web3." name="description" />
     <meta content="Web3 Global Conference" property="og:title" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta property="og:image" content="Web 3 Global Conference Logo Transparent1.png">
+    <meta property="og:image" content="Web 3 Global Conference Logo Transparent1.png"/>
      <meta property="og:description" content= "The Web3 Global Conference is an unparalleled event that unites leading experts from diverse industries on a global scale with core emphasis everything web3."/>
     <link
       href="karls-superb-site-b5d298-49ec6745d5a9d9.webflow.f06a384f4.css"
