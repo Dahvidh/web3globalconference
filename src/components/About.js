@@ -55,12 +55,7 @@ function About() {
                             <h2 className="heading-l">Reasons to Attend</h2>
                             <div className="content">
                               <div className="w-layout-grid grid--text">
-                                <img
-                                  src="645edd8f8709e3387ae97c4e_Tick.svg"
-                                  loading="lazy"
-                                  alt="Tick Icon"
-                                  className="orange-tickmark"
-                                />
+                              <br/>
                                 <div>
                                   <div className="label-div">
                                     <h3 className="heading-xs">
