@@ -74,12 +74,7 @@ function About() {
                                     knowledge-sharing experience.
                                   </p>
                                 </div>
-                                <img
-                                  src="645edd8f8709e3387ae97c4e_Tick.svg"
-                                  loading="lazy"
-                                  alt="Tick Icon"
-                                  className="orange-tickmark"
-                                />
+                               <br/>
                                 <div>
                                   <div className="label-div">
                                     <h3 className="heading-xs">
@@ -93,12 +88,7 @@ function About() {
                                     influential leaders in the field.
                                   </p>
                                 </div>
-                                <img
-                                  src="645edd8f8709e3387ae97c4e_Tick.svg"
-                                  loading="lazy"
-                                  alt="Tick Icon"
-                                  className="orange-tickmark"
-                                />
+                                <br/>
                                 <div>
                                   <div className="label-div">
                                     <h3 className="heading-xs">
@@ -112,12 +102,7 @@ function About() {
                                     opportunities for quality connections.
                                   </p>
                                 </div>
-                                <img
-                                  src="645edd8f8709e3387ae97c4e_Tick.svg"
-                                  loading="lazy"
-                                  alt="Tick Icon"
-                                  className="orange-tickmark"
-                                />
+                              <br/>
                                 <div>
                                   <div className="label-div">
                                     <h3 className="heading-xs">
@@ -132,12 +117,7 @@ function About() {
                                     into the web3 ecosystem.
                                   </p>
                                 </div>
-                                <img
-                                  src="645edd8f8709e3387ae97c4e_Tick.svg"
-                                  loading="lazy"
-                                  alt="Tick Icon"
-                                  className="orange-tickmark"
-                                />
+                               <br/>
                                 <div>
                                   <div className="label-div">
                                     <h3 className="heading-xs">
