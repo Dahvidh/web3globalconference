@@ -32,7 +32,8 @@ function Insights() {
       <h3 class="text-center font-bold my-4 text-white text-3xl lg:text-4xl leading-10 lg:leading-12" style={{"marginTop":"1rem","marginBottom":"1rem","fontSize":"1.875rem","lineHeight":["2.25rem","2.5rem"],"fontWeight":700,"textAlign":"center","color":"#ffffff","@media (min-width: 1024px)":{"fontSize":"2.25rem","lineHeight":"2.5rem"}}}>
         Highlights from W3LC</h3>
 <br/> 
-         <h3>2023</h3>
+         <h3 class="text-center font-bold my-4 text-white text-3xl lg:text-4xl leading-10 lg:leading-12" style={{"marginTop":"1rem","marginBottom":"1rem","fontSize":"1.875rem","lineHeight":["2.25rem","2.5rem"],"fontWeight":700,"textAlign":"center","color":"#ffffff","@media (min-width: 1024px)":{"fontSize":"2.25rem","lineHeight":"2.5rem"}}}>
+        2023 </h3>
       <div class="aspect-ratio-16-9">
         <div class="flex items-center justify-center" style={{"display":"flex","justifyContent":"center","alignItems":"center"}}>
           <iframe
