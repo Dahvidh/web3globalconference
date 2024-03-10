@@ -33,7 +33,6 @@ function Insights() {
         Highlights from W3LC</h3>
 <br/> 
          <h3>2023</h3>
-      </h3>
       <div class="aspect-ratio-16-9">
         <div class="flex items-center justify-center" style={{"display":"flex","justifyContent":"center","alignItems":"center"}}>
           <iframe
