@@ -36,8 +36,9 @@ function About() {
                   <br />
                 </p>
                 <br />
-                <p>We extend a warm invitation to  <h6 className="heading-xs">Web3 startups, Entrepreneurs, Developers, Industry leaders, Creators, Web3 communities</h6> </p>
-               
+                <p>We extend a warm invitation to </p>
+               <h6 className="heading-xs">Web3 startups, Entrepreneurs, Developers, Industry leaders, Creators, Web3 communities</h6>
+                      
                 <div className="section_reasons-to-attend-home wf-section">
                   <div className="padding-global">
                     <div className="padding-section-small">
