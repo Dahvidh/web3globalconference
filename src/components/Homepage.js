@@ -93,7 +93,7 @@ function Homepage() {
               id="w-node-_947af637-b344-5890-a7f1-1eb372cf6fde-eaf3a2fe"
               className="hero-left hero_home"
             >
-              <div className="content">
+               <div className="content">
                 <div className="title-1">
                   <h1 className="heading-xxl">WEB3 GLOBAL CONFERENCE</h1>
                 </div>
@@ -140,7 +140,7 @@ function Homepage() {
     </div>
   </div>
   <div id="About" className="section_what-is-pot wf-section animate__animated animate__bounce animate__delay-2s" >
-    <div className="padding-global">
+     {/*<div className="padding-global">
       <div className="padding-section-large">
         <div className="container-large">
           <div className="w-layout-grid _0-75-1_grid">
@@ -160,7 +160,7 @@ function Homepage() {
             </div>
           </div>
         </div>
-      </div>
+      </div>*/}
     </div>
   </div>
   <p />
