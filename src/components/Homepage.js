@@ -139,43 +139,9 @@ function Homepage() {
       </div>
     </div>
   </div>
-  <div id="About" className="section_what-is-pot wf-section animate__animated animate__bounce animate__delay-2s" >
-      {/* <div className="padding-global">
-      <div className="padding-section-large">
-        <div className="container-large">
-          <div className="w-layout-grid _0-75-1_grid">
-            <div
-              id="w-node-_36b21808-79f0-df05-6b1e-754aa2d38de4-a2d38ddf"
-              className="content"
-            >
-                {/*<h2 className="heading-l"> W3GC AGENDA </h2>
-              <div className="content">
-                {/*<p className="paragraph-text">
-                  The agenda includes engaging Q&amp;A sessions, dynamic
-                  startup pitches, valuable networking opportunities,
-                  captivating side events, an unforgettable afterparty, and
-                  rejuvenating coffee and lunch breaks.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>*/}
-  <p />
 
 </div>
-</section>
-
-
-
-
-
-
-
-                
-                
+</section>                
 </>
 
   )
