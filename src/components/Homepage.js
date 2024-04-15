@@ -126,7 +126,7 @@ function Homepage() {
                 </a>
                      &nbsp;  &nbsp;  &nbsp;
                 <a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSeOCFyt6izfrUbp0JCyvoP9TGRKAnK5LERjmbD35WMsTIl-Jg/viewform"
+                  href="https://app.moongate.id/e/web3-global-conference-2024"
                   className="secondary-button outline w-button"
                 >
                   BE A SPEAKER
