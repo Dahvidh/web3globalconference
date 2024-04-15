@@ -105,7 +105,7 @@ function Footer() {
             className="footer-legal-link-2"
           >
             Terms Of Use
-          </a> <br/>
+          </a> </br>
           <a
             href="privacy.html"
             className="footer-legal-link-2"
