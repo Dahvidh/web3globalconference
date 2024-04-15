@@ -10232,9 +10232,12 @@ blockquote {
 }
 
 .footer-legal-block-2 {
-  justify-content: flex-start;
-  align-items: center;
-  display: flex;
+    position: relative;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    left: 50%;
+}
 }
 
 .footer-legal-link-2 {
