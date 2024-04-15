@@ -119,14 +119,14 @@ function Homepage() {
                   </div>
                 </div>
 <a
-                  href="https://lu.ma/1ulna1fy"
+                  href="https://app.moongate.id/e/web3-global-conference-2024"
                   className="secondary-button w-button"
                 >
                   BOOK A TICKET
                 </a>
                      &nbsp;  &nbsp;  &nbsp;
                 <a
-                  href="https://app.moongate.id/e/web3-global-conference-2024"
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSeOCFyt6izfrUbp0JCyvoP9TGRKAnK5LERjmbD35WMsTIl-Jg/viewform"
                   className="secondary-button outline w-button"
                 >
                   BE A SPEAKER
