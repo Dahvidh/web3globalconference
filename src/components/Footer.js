@@ -100,7 +100,9 @@ function Footer() {
         </div>
 
                    <div className="footer-legal-block-2">
-          <a
+        
+        </div>
+                    <a
             href="Terms & Conditions.html"
             className="footer-legal-link-2"
           >
@@ -113,7 +115,6 @@ function Footer() {
           >
             Privacy Policy
           </a>
-        </div>
       </div>
     </div>
   </section>
