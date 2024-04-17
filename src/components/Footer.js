@@ -23,7 +23,7 @@ function Footer() {
       <div className="container-11">
         <div className="footer-bottom-2">
           <div className="footer-copyright-2">
-            © 2024 W3GC by Bathpage Consulting All rights reserved.
+            © 2024 W3GC by Web Global Conference LLC. All rights reserved.
           </div>
         </div>
       </div>
