@@ -46,7 +46,7 @@ function Speakerlist() {
       <div className="container-large">
         <div className="investors_wrapper">
           <h2 className="heading-l text-align-center">Official Partners</h2>
-          <Slider {...settings}>
+          //<Slider {...settings}>
             <div className="logo-card">
               <img
                 src="/imgg/Tokenizer-removebg-preview.png"
@@ -207,7 +207,7 @@ function Speakerlist() {
                 className="logo_image"
               />
             </div>
-          </Slider>
+          //</Slider>
           <div className="text-align-center">
             <div className="heading-m"></div>
           </div>
