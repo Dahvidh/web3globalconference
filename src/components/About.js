@@ -24,6 +24,27 @@ function About() {
     alignContent: "center",
   };
 
+   const mobileStyles = `
+  @media screen and (max-width: 768px) {
+    .content {
+      flex-direction: row;
+      align-items: center;
+    }
+    .reason-box {
+      width: calc(124.33% - 20px);
+    }
+  }
+  @media screen and (max-width: 480px) {
+    .content {
+      flex-direction: row;
+      align-items: center;
+    }
+    .reason-box {
+      width: calc{124.33%% - 20px);
+    }
+  }
+`;
+
   return (
     <div id="About" className="section_what-is-pot wf-section">
       <div className="padding-global">
