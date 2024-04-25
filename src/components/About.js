@@ -9,7 +9,7 @@ function About() {
   };
 
   const reasonBoxStyle = {
-    width: "calc(33.33% - 20px)",
+    width: "calc(100.33% - 20px)",
     border: "1px solid #ccc",
     borderRadius: "8px",
     backgroundColor: "rgb(219 219 219)",
