@@ -12,7 +12,7 @@ function About() {
     width: "calc(33.33% - 20px)",
     border: "1px solid #ccc",
     borderRadius: "8px",
-    backgroundColor: "#fff",
+    backgroundColor: "rgb(219 219 219)",
   };
 
   const labelDivStyle = {
