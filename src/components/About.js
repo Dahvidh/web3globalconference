@@ -6,7 +6,6 @@ function About() {
     flexWrap: "wrap",
     justifyContent: "space-between",
     gap: "20px",
-    paddingTop: "2%",
   };
 
   const reasonBoxStyle = {
@@ -14,6 +13,7 @@ function About() {
     border: "1px solid #ccc",
     borderRadius: "8px",
     backgroundColor: "rgb(219 219 219)",
+    paddingTop: "2%",
   };
 
   const labelDivStyle = {
