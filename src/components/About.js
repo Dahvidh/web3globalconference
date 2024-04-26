@@ -20,7 +20,7 @@ function About() {
   };
 
   const headingXsStyle = {
-    fontSize: "18px",
+    fontSize: "15px",
     alignContent: "center",
   };
 
