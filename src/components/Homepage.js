@@ -124,7 +124,7 @@ function Homepage() {
                 >
                   BOOK A TICKET
                 </a>
-                     &nbsp;  &nbsp;  &nbsp;
+                     &nbsp;  &nbsp;
                 <a
                   href="https://docs.google.com/forms/d/e/1FAIpQLSeOCFyt6izfrUbp0JCyvoP9TGRKAnK5LERjmbD35WMsTIl-Jg/viewform"
                   className="secondary-button outline w-button"
