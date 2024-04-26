@@ -109,7 +109,7 @@ function About() {
                                     }}
                                   >
                                     {/* Box 1 */}
-                                    <div style={reasonBoxStyle}>
+                                    <div style={reasonBoxStyle} className="animate__animated animate__backInLeft 2s">
                                       <div style={labelDivStyle}>
                                         <h3 style={headingXsStyle}>
                                           Unrivaled Speaker Lineup
@@ -123,7 +123,7 @@ function About() {
                                       </p>
                                     </div>
                                     {/* Box 2 */}
-                                    <div style={reasonBoxStyle}>
+                                    <div style={reasonBoxStyle} className="animate__animated animate__backInLeft 3s">
                                       <div style={labelDivStyle}>
                                         <h3 style={headingXsStyle}>
                                           Elite Audience
@@ -138,7 +138,7 @@ function About() {
                                       </p>
                                     </div>
                                     {/* Box 3 */}
-                                    <div style={reasonBoxStyle}>
+                                    <div style={reasonBoxStyle} className="animate__animated animate__backInLeft 4s">
                                       <div style={labelDivStyle}>
                                         <h3 style={headingXsStyle}>
                                           Exclusively Curated Networking
@@ -153,7 +153,7 @@ function About() {
                                       </p>
                                     </div>
                                     {/* Box 4 */}
-                                    <div style={reasonBoxStyle}>
+                                    <div style={reasonBoxStyle} className="animate__animated animate__backInLeft 5s">
                                       <div style={labelDivStyle}>
                                         <h3 style={headingXsStyle}>
                                           Empower the Future of the Industry
@@ -168,7 +168,7 @@ function About() {
                                       </p>
                                     </div>
                                     {/* Box 5 */}
-                                    <div style={reasonBoxStyle}>
+                                    <div style={reasonBoxStyle} className="animate__animated animate__backInLeft 6s">
                                       <div style={labelDivStyle}>
                                         <h3 style={headingXsStyle}>
                                           Strategic Matchmaking at its Finest
