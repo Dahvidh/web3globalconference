@@ -6,6 +6,7 @@ function About() {
     flexWrap: "wrap",
     justifyContent: "space-between",
     gap: "20px",
+    paddingTop: "2%",
   };
 
   const reasonBoxStyle = {
