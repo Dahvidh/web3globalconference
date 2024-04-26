@@ -134,7 +134,7 @@ function Homepage() {
               </div>
             </div>
           </div>
-                    </br>
+                    <br/>
           <hr />
         </div>
       </div>
