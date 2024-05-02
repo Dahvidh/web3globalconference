@@ -4,8 +4,11 @@ html {
   font-family: sans-serif;
 }
 
+
+
 body {
-    /*margin: 0;*/
+  /*margin: 0;*/
+
 }
 
 article,
@@ -3524,7 +3527,8 @@ textarea.w-select {
 
 body {
   color: #000;
-  background-color: #834ce8;
+
+  background-color: #fdfdfd;
   flex-direction: column;
   font-family: Poppins, sans-serif;
   font-size: 1rem;
@@ -3601,7 +3605,7 @@ a {
 }
 
 a:hover {
-  color: #ee6a2d;
+  color: #834ce8;
 }
 
 ul {
@@ -3968,8 +3972,8 @@ blockquote {
 }
 
 .secondary-button.outline:hover {
-  color: #fff;
-  background-color: #000;
+  color: #000;
+  background-color: #834ce8;
 }
 
 .secondary-button.outline.black {
@@ -17587,7 +17591,7 @@ blockquote {
   }
 
   .heading-l {
-    font-size: 2.5rem;
+    font-size: 3rem;
   }
 
   .heading-l.left {
@@ -20737,3 +20741,4 @@ blockquote {
     justify-self: center;
   }
 }
+  
