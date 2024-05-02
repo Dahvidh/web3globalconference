@@ -4,8 +4,17 @@ html {
   font-family: sans-serif;
 }
 
+.investors_wrapper {
+  overflow-x: auto;
+  /* Enable horizontal scrolling if necessary */
+  overflow-y: hidden;
+  /* Hide vertical overflow */
+}
+
 body {
+    {
     /*margin: 0;*/
+  }
 }
 
 article,
@@ -3528,7 +3537,7 @@ textarea.w-select {
 
 body {
   color: #000;
-  background-color: #e3dcd4;
+  background-color: #000;
   flex-direction: column;
   font-family: Poppins, sans-serif;
   font-size: 1rem;
@@ -3604,7 +3613,7 @@ a {
 }
 
 a:hover {
-  color: #ee6a2d;
+  color: #834ce8;
 }
 
 ul {
@@ -17669,7 +17678,7 @@ blockquote {
   }
 
   .heading-l {
-    font-size: 2.5rem;
+    font-size: 3rem;
   }
 
   .heading-l.left {
