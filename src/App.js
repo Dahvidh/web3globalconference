@@ -20,6 +20,7 @@ function App() {
       <Header/>
       <Homepage/>
       <About/>
+     <Reasons />
       <Speaker/>
       <Speakerlist/>
       <Footer/>
