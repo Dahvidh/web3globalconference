@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Speaker from "./components/Speaker";
 import About from "./components/About";
 import Reasons from "./components/Reasons";
+import Speakerlist from "./components/Speakerlist";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useEffect } from "react";
 
@@ -14,6 +15,7 @@ function App() {
       <About />
     <Reasons />
       <Speaker />
+    <Speakerlist />
       <Footer />
     </div>
   );
