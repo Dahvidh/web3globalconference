@@ -38,7 +38,6 @@ const Navbar = () => {
     },
     navContactLinkHover: {
       backgroundColor: "#36068f",
-       color: "#000",
     },
   };
 
