@@ -153,7 +153,7 @@ function Speaker() {
                     />
                   </div>
                   <div className="team-member-name">Moran Weiss</div>
-                  <div className="team-member-position">Experienced Web3 Project Manager & Operations Specialist </div>
+                  <div className="team-member-position">Hedera, Founder</div>
                 </div>
               </div>
               <div role="listitem" className="speaker_item w-dyn-item">

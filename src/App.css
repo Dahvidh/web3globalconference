@@ -271,8 +271,8 @@ html {
 
 body {
   min-height: 100%;
-  color: #fff;
-  background-color: #fff;
+  color: #333;
+  background-color: transparent;
   margin: 0;
   font-family: Arial, sans-serif;
   font-size: 14px;
@@ -3527,8 +3527,8 @@ textarea.w-select {
 
 body {
   color: #000;
-
-  background-color: #fdfdfd;
+  overflow-x: hidden;
+  background-color: #000000;
   flex-direction: column;
   font-family: Poppins, sans-serif;
   font-size: 1rem;
@@ -3731,17 +3731,7 @@ blockquote {
   position: static;
 }
 
-.hero {
-  width: 100%;
-  flex-direction: column;
-  flex: 0 auto;
-  justify-content: center;
-  align-self: center;
-  align-items: center;
-  margin-top: 0;
-  margin-bottom: 6.25rem;
-  display: flex;
-}
+
 
 .icon {
   width: 18vw;
@@ -13903,7 +13893,7 @@ blockquote {
   .nav-menu {
     width: 44%;
     height: 100vh;
-    background-color: #ee6a2d;
+
     align-items: center;
     margin-top: 0;
     margin-bottom: auto;
@@ -20741,4 +20731,3 @@ blockquote {
     justify-self: center;
   }
 }
-  
