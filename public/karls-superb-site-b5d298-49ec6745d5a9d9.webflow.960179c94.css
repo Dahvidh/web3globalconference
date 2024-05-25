@@ -277,8 +277,8 @@ html {
 
 body {
   min-height: 100%;
-  color: #333;
-  background-color: #fff;
+  color: #fff7f7;
+  background-color: transparent;
   margin: 0;
   font-family: Arial, sans-serif;
   font-size: 14px;
@@ -3543,6 +3543,7 @@ body {
   font-size: 1rem;
   line-height: 1.4;
   display: flex;
+  overflow-X: hidden;
 }
 
 h1 {

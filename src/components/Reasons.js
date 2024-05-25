@@ -1,19 +1,18 @@
 import React from "react";
-//import "animate.css";
+import "animate.css";
 
 function Reasons() {
   const containerStyle = {
     display: "flex",
-    flexWrap: "wrap",
     justifyContent: "space-between",
-    gap: "20px",
+    gap: "10px",
   };
 
   const reasonBoxStyle = {
     width: "calc(40.33% - 10px)",
     border: "1px solid #ccc",
     borderRadius: "8px",
-    backgroundColor: "rgb(219 219 219)",
+    backgroundColor: "rgb(219, 219, 219)",
     paddingTop: "2%",
   };
 
@@ -26,31 +25,42 @@ function Reasons() {
     textAlign: "center",
   };
 
-  {
-    /*const mobileStyles = `
+  const mobileStyles = `
     @media screen and (max-width: 768px) {
-      .content {
-        flex-direction: row;
+      .content-1 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
         align-items: center;
+        gap: 10px;
       }
       .reason-box {
-        width: calc(124.33% - 20px);
+        width: calc(45% - 10px);
       }
+     .heading-Xs = {
+        fontSize: "20px";
+        textAlign: "center";
+        line-height: 3.5vw;
+      };
     }
+  
     @media screen and (max-width: 480px) {
-      .content {
-        flex-direction: row;
+      .content-1 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
         align-items: center;
+        gap: 10px;
       }
       .reason-box {
-        width: calc(124.33% - 20px);
+        width: calc(100% - 10px);
       }
     }
-  `;*/
-  }
+  `;
 
   return (
     <section>
+      <style>{mobileStyles}</style>
       <div
         id="About"
         className="section_reasons-to-attend-home wf-section"
@@ -63,13 +73,13 @@ function Reasons() {
             <div className="container-large">
               <div className="w-layout-flex _0-75-1_flex">
                 <div
-                  className="content"
+                  className="Reasons"
                   style={{
                     backgroundColor: "#834ce8",
                   }}
                 >
                   <h2 className="heading-l">Reasons to Attend</h2>
-                  <div className="content" style={containerStyle}>
+                  <div className="content-1" style={containerStyle}>
                     <div
                       className="w-layout-grid grid--text"
                       style={{
@@ -80,20 +90,21 @@ function Reasons() {
                       {/* Box 1 */}
                       <div
                         style={reasonBoxStyle}
-                        className="animate__animated animate__backInLeft"
+                        className="animate__animated animate__backInLeft reason-box"
                       >
                         <div style={labelDivStyle}>
-                          <bold>
+                          <b>
                             <h3 style={headingXsStyle}>
                               Unrivaled Speaker Lineup
                             </h3>
-                          </bold>
+                          </b>
                         </div>
                         <p
                           style={{
                             display: "flex",
                             flexWrap: "wrap",
                             justifyContent: "space-between",
+                            padding: "5%",
                           }}
                         >
                           Join 50+ esteemed industry experts representing
@@ -104,14 +115,21 @@ function Reasons() {
                       {/* Box 2 */}
                       <div
                         style={reasonBoxStyle}
-                        className="animate__animated animate__backInLeft"
+                        className="animate__animated animate__backInLeft reason-box"
                       >
                         <div style={labelDivStyle}>
-                          <bold>
+                          <b>
                             <h3 style={headingXsStyle}>Elite Audience</h3>
-                          </bold>
+                          </b>
                         </div>
-                        <p>
+                        <p
+                          style={{
+                            display: "flex",
+                            flexWrap: "wrap",
+                            justifyContent: "space-between",
+                            padding: "5%",
+                          }}
+                        >
                           Engage with a distinguished gathering of web3 decision
                           makers and industry experts, with 90% of attendees
                           comprising influential leaders in the field.
@@ -120,16 +138,23 @@ function Reasons() {
                       {/* Box 3 */}
                       <div
                         style={reasonBoxStyle}
-                        className="animate__animated animate__backInLeft"
+                        className="animate__animated animate__backInLeft reason-box"
                       >
                         <div style={labelDivStyle}>
-                          <bold>
+                          <b>
                             <h3 style={headingXsStyle}>
                               Exclusively Curated Networking
                             </h3>
-                          </bold>
+                          </b>
                         </div>
-                        <p>
+                        <p
+                          style={{
+                            display: "flex",
+                            flexWrap: "wrap",
+                            justifyContent: "space-between",
+                            padding: "5%",
+                          }}
+                        >
                           Immerse yourself in an intimate and highly selective
                           networking environment, limited to 500 participants,
                           ensuring unparalleled opportunities for quality
@@ -137,36 +162,50 @@ function Reasons() {
                         </p>
                       </div>
                       {/* Box 4 */}
-                      {/*<div
+                      <div
                         style={reasonBoxStyle}
-                        className="animate__animated animate__backInLeft"
+                        className="animate__animated animate__backInLeft reason-box"
                       >
                         <div style={labelDivStyle}>
                           <h3 style={headingXsStyle}>
                             Empower the Future of the Industry
                           </h3>
                         </div>
-                        <p>
+                        <p
+                          style={{
+                            display: "flex",
+                            flexWrap: "wrap",
+                            justifyContent: "space-between",
+                            padding: "5%",
+                          }}
+                        >
                           Take a proactive stance in reshaping the future of
                           web3, driving innovation, fostering trust, and
-                          facilitating the seamless onboarding of companies
-                          and users into the web3 ecosystem.
+                          facilitating the seamless onboarding of companies and
+                          users into the web3 ecosystem.
                         </p>
-                      </div>*/}
+                      </div>
 
                       {/* Box 5 */}
                       <div
                         style={reasonBoxStyle}
-                        className="animate__animated animate__backInLeft"
+                        className="animate__animated animate__backInLeft reason-box"
                       >
                         <div style={labelDivStyle}>
-                          <bold>
+                          <b>
                             <h3 style={headingXsStyle}>
                               Strategic Matchmaking at its Finest
                             </h3>
-                          </bold>
+                          </b>
                         </div>
-                        <p>
+                        <p
+                          style={{
+                            display: "flex",
+                            flexWrap: "wrap",
+                            justifyContent: "space-between",
+                            padding: "5%",
+                          }}
+                        >
                           Experience an exceptional matchmaking day tailored for
                           esteemed venture capitalists, meticulously selected
                           startups, and outstanding individuals, fostering

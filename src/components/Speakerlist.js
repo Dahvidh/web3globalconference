@@ -46,6 +46,7 @@ function Speakerlist() {
       className="padding-section-large"
       style={{
         backgroundColor: "#834ce8",
+        overflowX: "hidden",
       }}
     >
       <div className="container-large">
@@ -218,9 +219,21 @@ function Speakerlist() {
           </div>
           <div className="button-group is-center">
             <div className="waitlist-modal_btn">
-              {/*  <a href="public/Insights.html" className="button is-alternate w-button">
-              Join the 2024 Waitlist
-              </a>*/}
+              <a
+                style={{
+                  alignItems: "center",
+                  justifyContent: "center",
+                  display: "flex",
+                  alignContent: "center",
+                  flexDirection: "row",
+                  left: "48.5%",
+                  position: "relative",
+                }}
+                href="https://docs.google.com/forms/d/e/1FAIpQLSc-ieND9GPFt1SHou0vVDRGy1Kh6YTPoM3SJvO0QIUFx_Qoww/viewform"
+                className="secondary-button w-button"
+              >
+                Become a Sponsor
+              </a>
             </div>
             <div
               id="w-node-e6716282-0155-f796-c274-93233fe90899-3c6bddfa"

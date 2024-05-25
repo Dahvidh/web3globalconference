@@ -278,7 +278,7 @@ html {
 body {
   min-height: 100%;
   color: #333;
-  background-color: #fff;
+  background-color: transparent;
   margin: 0;
   font-family: Arial, sans-serif;
   font-size: 14px;
@@ -3526,12 +3526,13 @@ textarea.w-select {
 
 body {
   color: #000;
-  background-color: #fff;
+  background-color: rgb(195 199 196);
   flex-direction: column;
   font-family: Poppins, sans-serif;
   font-size: 1rem;
   line-height: 1.4;
   display: flex;
+  overflow-x: hidden;
 }
 
 h1 {
