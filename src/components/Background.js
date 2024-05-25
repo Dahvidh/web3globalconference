@@ -12,7 +12,6 @@ const backgroundStyle = {
   width: "100%",
   objectFit: "cover",
   zIndex: -1,
-  opacity: 0,
   animation: "fadeIn 2s ease-in-out forwards",
 };
 
