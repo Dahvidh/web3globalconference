@@ -18,7 +18,7 @@ const BackgroundWrapper = styled.div`
 
 const Homepage = () => {
   let heroData = [
-    { text1: "Web3 Global Conference", text2: "Conference" },
+    { text1: "Web3 Global", text2: "Conference" },
     { text1: "The Future is", text2: "Decentralized" },
     { text1: "Join Us ", text2: "Insights & Networking" },
   ];
