@@ -28,16 +28,38 @@ const fadeInKeyframes = `
 `;
 
 const responsiveStyles = `
-  @media (max-width: 768px, ) {
+  @media (max-width: 768px) {
+    const backgroundStyle = {
+      position: "fixed",
+      top: 0,
+      left: 0,
+      height: "50%",
+      width: "50%",
+      objectFit: "cover",
+      zIndex: -1,
+      opacity: 0,
+      animation: "fadeIn 2s ease-in-out forwards",
+
     video, img {
       object-fit: cover;
     }
   }
-  @media (min-width: 479px) {
+  @media (min-width: 379px) {
+    const backgroundStyle = {
+      position: "fixed",
+      top: 0,
+      left: 0,
+      height: "100%",
+      width: "50%",
+      objectFit: "cover",
+      zIndex: -1,
+      opacity: 0,
+      animation: "fadeIn 2s ease-in-out forwards",
+
     video, img {
       object-fit: contain;
-      height: "50%",
-      width: "20%",
+      height: 50%;
+      width: 20%;
     }
   }
 `;
@@ -66,11 +88,11 @@ injectStyles(responsiveStyles);
 
 const Background = ({ playStatus, heroCount }) => {
   if (playStatus) {
-    return {
-      /*<video style={backgroundStyle} autoPlay loop muted>
+    return (
+      <video style={backgroundStyle} autoPlay loop muted>
         <source src={video1} type="video/mp4" />
-    </video>*/
-    };
+      </video>
+    );
   } else if (heroCount === 0) {
     return <img src={image1} style={backgroundStyle} alt="" />;
   } else if (heroCount === 1) {
