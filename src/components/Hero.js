@@ -257,16 +257,9 @@ const Hero = ({
             ></li>
           </ul>
         </div>
-        <div style={styles.heroAgenda}>
-          <p style={styles.heroAgendaText}>Be with Us</p>
-          <a href="#" style={styles.heroAgendaLink}>
-            <img
-              src={playStatus ? pause_icon : play_icon}
-              alt=""
-              style={styles.heroAgendaImg}
-            />
-          </a>
-        </div>
+        <br />
+        <br />
+        <br />
         <div style={styles.heroPlay}>
           <img
             onClick={() => setPlayStatus(!playStatus)}
