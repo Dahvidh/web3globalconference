@@ -13893,7 +13893,9 @@ blockquote {
   .nav-menu {
     width: 44%;
     height: 100vh;
-
+    left: 22%;
+    position: absolute;
+    top: 15%;
     align-items: center;
     margin-top: 0;
     margin-bottom: auto;
@@ -15416,6 +15418,9 @@ blockquote {
     margin-top: 0;
     margin-bottom: 0;
     margin-right: auto;
+    left: 15%;
+    position: absolute;
+    top: 15%;
   }
 
   .heading-xxl {
