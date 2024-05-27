@@ -11,8 +11,9 @@ const BackgroundWrapper = styled.div`
   background-size: cover;
   background-position: center;
 
-  @media (max-width: 768px) {
+  @media (max-width: 768px) and (min-width: 479px) {
     height: auto;
+    background-size: contain; // Example adjustment, change as needed
   }
 `;
 
@@ -20,18 +21,18 @@ const Homepage = () => {
   let heroData = [
     { text1: "Web3 Global ", text2: "Conference" },
     { text1: "The Future is", text2: "Decentralized" },
-    { text1: "Join Us ", text2: "Insights & Networking" },
+    { text1: "Join Us For", text2: "Insights & Networking" },
   ];
 
   const [heroCount, setHeroCount] = useState(0);
 
   const [playStatus, setPlayStatus] = useState(false);
   useEffect(() => {
-    setInterval(() => {
-      setHeroCount((count) => {
-        return count === 2 ? 0 : count + 1;
-      });
+    const interval = setInterval(() => {
+      setHeroCount((count) => (count === 2 ? 0 : count + 1));
     }, 5000);
+
+    return () => clearInterval(interval);
   }, []);
 
   return (
