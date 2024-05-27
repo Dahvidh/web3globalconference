@@ -17,7 +17,10 @@ const backgroundStyle = {
 
 const fadeInKeyframes = `
   @keyframes fadeIn {
+<<<<<<< HEAD
 
+=======
+>>>>>>> f1afb7dba942ad1a55c08eae43f840c9717e75d8
     100% {
       opacity: 1;
     }
