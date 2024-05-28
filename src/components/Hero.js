@@ -6,9 +6,9 @@ import pause_icon from "../img/pause_icon.png";
 
 const styles = {
   hero: {
-    margin: "0 120px",
+    margin: "0 25px",
     marginTop: "100px",
-    height: "100vh",
+    height: "88vh",
   },
   heroText: {
     color: "#fff",
@@ -109,7 +109,7 @@ const styles = {
     hero: {
       margin: "0 10px",
       marginTop: "30px",
-      height: "100vh",
+      height: "70vh",
     },
     heroText: {
       color: "#fff",
