@@ -7,7 +7,7 @@ import Navbar from "./Navbar";
 
 const BackgroundWrapper = styled.div`
   width: 100%;
-  height: 100vh;
+  height: 70vh;
   background-size: cover;
   background-position: center;
 

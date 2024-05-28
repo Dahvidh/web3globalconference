@@ -259,7 +259,6 @@ const Hero = ({
         </div>
         <br />
         <br />
-        <br />
         <div style={styles.heroPlay}>
           <img
             onClick={() => setPlayStatus(!playStatus)}
