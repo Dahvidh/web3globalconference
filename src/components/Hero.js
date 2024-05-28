@@ -8,7 +8,7 @@ const styles = {
   hero: {
     margin: "0 25px",
     marginTop: "100px",
-    height: "88vh",
+    height: "100vh",
   },
   heroText: {
     color: "#fff",
@@ -109,7 +109,7 @@ const styles = {
     hero: {
       margin: "0 10px",
       marginTop: "30px",
-      height: "70vh",
+      height: "88vh",
     },
     heroText: {
       color: "#fff",
