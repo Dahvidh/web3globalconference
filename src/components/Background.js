@@ -17,10 +17,7 @@ const backgroundStyle = {
 
 const fadeInKeyframes = `
   @keyframes fadeIn {
-<<<<<<< HEAD
 
-=======
->>>>>>> f1afb7dba942ad1a55c08eae43f840c9717e75d8
     100% {
       opacity: 1;
     }
@@ -28,7 +25,6 @@ const fadeInKeyframes = `
 `;
 
 const responsiveStyles = `
-  @media (max-width: 768px) and (min-width: 479px) {
     video, img {
       object-fit: contain;
       height: 50%;
