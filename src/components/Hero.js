@@ -105,7 +105,7 @@ const styles = {
     from: { transform: "translateX(100%)" },
     to: { transform: "translateX(-100%)" },
   },
-  "@media (max-width: 768px) and (min-width: 479px)": {
+  "@media (max-width: 768px) and (min-width: 320px)": {
     hero: {
       margin: "0 30px",
       marginTop: "30px",
